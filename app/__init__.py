@@ -1,0 +1,1 @@
+"""GitHub analytics platform application package."""
